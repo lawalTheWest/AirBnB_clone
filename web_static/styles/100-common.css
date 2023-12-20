@@ -1,7 +1,9 @@
+/* the common stylesheet */
 html {
     position: relative;
     min-height: 100vh;
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -9,6 +11,7 @@ body {
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;   
 }
+
 .container {
     max-width: 1000px;
     margin: 30px auto;
